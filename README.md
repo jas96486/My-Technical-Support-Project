@@ -1,5 +1,5 @@
 # Technical-Support-Project
-# By using Windows 10 Client Machine I made this Project.
+# By using Windows 10 Virtual Client Machine I made this Project.
 ![image](https://user-images.githubusercontent.com/104744741/213940041-e07eb491-5c6a-4abf-a380-8ca034fbc45b.png)
 
 ![image](https://user-images.githubusercontent.com/104744741/213940064-6a5f0822-0155-42d8-8274-8d23c13dac92.png)
